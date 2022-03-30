@@ -1,8 +1,8 @@
 show tables;
 
-desc aaa;
+-- desc aaa;
 
-drop table aaa;
+-- drop table aaa;
 
 create table aaa (
   name   varchar(20) not null,
